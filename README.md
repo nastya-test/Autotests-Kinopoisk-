@@ -1,0 +1,2 @@
+# Autotests-Kinopoisk-
+Selenide + TestNg
